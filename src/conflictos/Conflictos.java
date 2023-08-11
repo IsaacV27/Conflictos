@@ -6,7 +6,7 @@ package conflictos;
 
 /**
  *
- * @author LUIS
+ * @author 
  */
 public class Conflictos {
 
@@ -14,7 +14,8 @@ public class Conflictos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       String edad;
+       String nombre;
     }
     
 }
